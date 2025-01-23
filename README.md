@@ -1,16 +1,13 @@
 # f1rstlap
 
-A new Flutter project.
+### Disclaimer (pt-br)
 
-## Getting Started
+O F1rstLap é um projeto não oficial e não está associado de forma alguma às empresas de Fórmula 1. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX e marcas relacionadas são marcas comerciais da Formula One Licensing B.V.
 
-This project is a starting point for a Flutter application.
+Este aplicativo não é afiliado, patrocinado ou aprovado pela Fórmula 1. Todas as informações exibidas são de domínio público.
 
-A few resources to get you started if this is your first Flutter project:
+### Disclaimer (en)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+F1rstLap is an unofficial project and is not associated in any way with the Formula 1 companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is not affiliated, sponsored or approved by Formula 1. All information displayed is in the public domain.
